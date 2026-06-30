@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Semarang State Polytechnic",
+		"logo": "images/polines-logo.png",
+        "major": "Electronics Engineering (D4)",
+        "year": "2023 - present",
+        "description": "GPA 3.71 of 4.00; Undergraduate Electronics Engineering Student at Politeknik Negeri Semarang; Active member of Polines Robotics Evolutions and involved in various robotics, embedded systems, and IoT development projects; Experienced in electronics design, microcontroller programming, PCB design, and automation systems through academic activities, competitions, and engineering projects."
+    },
+    {
+        "university": "SMA IT Al-Huda",
+		"logo": "images/alhuda-logo.png",
+        "major": "MIPA",
+        "year": "2020 - 2023",
+        "description": "Focused on science, technology, and character-based education through an integrated Islamic curriculum. Developed strong foundations in mathematics, physics, problem-solving, and technology through project-based learning, robotics activities, and academic competitions. Enhanced leadership, communication, and teamwork skills while fostering discipline, innovation, and continuous learning in preparation for higher education in engineering and technology fields."
+    }
+]

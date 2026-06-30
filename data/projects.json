@@ -1,0 +1,62 @@
+[
+    {
+        "title": "ESP-NOW DS2 Wireless Remote Controller",
+        "year": "2025",
+        "fund": "Kontes Robot ABU Indonesia (KRAI) 2025",
+        "partner": "Polines Robotics Evolutions",
+        "role": "Developer",
+        "description": "Designed and built a custom wireless controller based on the ESP32 board, integrated into a PlayStation DualShock 2 housing. Developed as the main controller for the Basketball Robot competing in the Kontes Robot ABU Indonesia 2025 (KRAI 2025). The system uses the ESP-NOW protocol for low-latency communication and features an OLED display for real-time monitoring, an external antenna for extended range, and an internal rechargeable battery for portable operation.",
+        "image": "images/proj1.jpg",
+        "link": "https://github.com/HabibMuhammad05/KRAI-ESPNOW-DS2-CONTROLLER-PROJECT"
+    },
+    {
+        "title": "Smart Motorcycle Stoplamp Display System",
+        "year": "2023",
+        "fund": "Independent Project",
+        "partner": "Personal Project",
+        "role": "Developer",
+        "description": "Designed and built a smart motorcycle stoplamp system featuring a programmable running LED display. The system is powered by an ESP8266 module, allowing wireless configuration through a local webserver that can adjust display patterns, brightness, and operating modes directly from the interface.",
+        "image": "images/proj2.jpg",
+        "link": "https://github.com/HabibMuhammad05/tracked-iot-projects/tree/master/Project_Wemos_D1_StopLamp"
+    },
+    {
+        "title": "Bluetooth Controlled Miniature Robotic Arm – 4 DOF",
+        "year": "2022",
+        "fund": "High School Final Project",
+        "partner": "School Project",
+        "role": "Team Leader",
+        "description": "Built a miniature robotic arm with four degrees of freedom using SG90 servo motors. The robot is controlled through a custom Android application developed using MIT App Inventor and communicates via Bluetooth. It supports swing, elevation, reach, and gripper movements while operating on a compact 5V USB power supply, making it suitable for demonstrations and educational purposes.",
+        "image": "images/proj3.jpg",
+        "link": "https://github.com/HabibMuhammad05/tracked-arduino-projects/tree/main/Project_L293D_MotorDriver/L293D_Coffin_RaceMode"
+    },
+    {
+        "title": "IoT Smart Garden Prototype with Solar Tracking System",
+        "year": "2022",
+        "fund": "SRC Competition",
+        "partner": "Sukabumi Robotic Competition",
+        "role": "Developer",
+        "description": "Developed an IoT-based Smart Garden system using ESP8266, integrated with Blynk and Google Home for remote monitoring and control. The project features automated UV lamp and water pump control for plant care, as well as a solar tracking tower that adjusts solar panel orientation based on sunlight direction. The off-grid power system uses solar energy to charge a battery that powers the entire installation.",
+        "image": "images/proj4.jpg",
+        "link": "https://github.com/HabibMuhammad05/tracked-iot-projects/tree/master/Project_SinricPro_Blynk_ThingSpeak_MQTT/ESP8266_Sinric_Pro_Smartgarden"
+    },
+    {
+        "title": "IR Line Follower Robot Prototype",
+        "year": "2022",
+        "fund": "Independent Project",
+        "partner": "Personal Project",
+        "role": "Developer",
+        "description": "Designed and developed a line follower robot using an Arduino Uno and an IR sensor array to automatically detect and follow a predefined black path. The project focuses on autonomous navigation, motion control, sensor feedback processing, and embedded programming fundamentals.",
+        "image": "images/proj5.jpg",
+        "link": "https://github.com/HabibMuhammad05/tracked-arduino-projects/tree/main/Project_L293D_MotorDriver/L293D_LineFollower"
+    },
+    {
+        "title": "IoT Smart Home System with Blynk and Google Home",
+        "year": "2022",
+        "fund": "School Project",
+        "partner": "Educational Project",
+        "role": "Developer",
+        "description": "Developed an IoT-based Smart Home system using Arduino Uno and ESP8266 to control and monitor household devices through the Blynk application and Google Home voice commands. The system manages three lamps, a fan, and a temperature-humidity monitoring module, enabling real-time monitoring and internet-based automation.",
+        "image": "images/proj6.jpg",
+        "link": "https://github.com/HabibMuhammad05/tracked-iot-projects/tree/master/Project_SinricPro_Blynk_ThingSpeak_MQTT"
+    }
+]

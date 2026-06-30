@@ -1,0 +1,23 @@
+[
+    {
+        "company": "Politeknik Negeri Semarang",
+		"logo":"images/polines-logo.png",
+        "position": "Student",
+        "year": "2023 - Present",
+        "description": "As a Lecturer in Electronic Engineering, I am actively involved in academic and administrative responsibilities, including leading the study program accreditation taskforce to ensure continuous quality improvement. In addition, I lead and manage several projects, contributing to both institutional development and practical engineering applications."
+    },
+	{
+        "company": "Polines Robotics Evolution(POLIREVO)",
+		"logo":"images/polirevo-02.png",
+        "position": "Electronics research and development staff",
+        "year": "2025 - present",
+        "description": "As a Lecturer in Computer Engineering, I am involved in the end-to-end pedagogy process, including updating lesson plans based on Outcome-Based Education (OBE) and current issues, developing interactive and easy-to-understand lecture materials, and assessing student outcomes. I am actively engaged in research and community outreach, with several publications and intellectual property to my name. Appointed as the Research Coordinator in the Faculty of Engineering and Informatics under the Dean, I organize regular meetings (FTI Research Talk), coaching clinics for publication and grant writing, manage UMN journals, and collaborate with external parties to promote research. Additionally, I actively contribute to the promotion and marketing of UMN to prospective students, participate in curriculum development, and handle administrative tasks related to accreditation and quality improvement. I have also successfully led several projects funded by both internal and external sources."
+    },
+    {
+        "company": "Polines Robotics Evolution(POLIREVO)",
+		"logo":"images/polirevo-02.png",
+        "position": "Active member of Elcetronic division",
+        "year": "2023 - 2025",
+        "description": "Control the quality of electronic part production for various printer models, analyze product defects, and provide recommendations to address issues or identify potential root causes."
+    }
+]

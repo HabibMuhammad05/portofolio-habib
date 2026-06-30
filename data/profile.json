@@ -1,0 +1,32 @@
+{
+    "name": "Habib Muhammad Zihni Miftah - Undergraduate Electronics Engineering",
+    "description": "Undergraduate Electronics Engineering student at Politeknik Negeri Semarang and an Electronics Engineer at Polines Robotics Evolutions with a strong interest in embedded systems, robotics, automation, and Internet of Things (IoT). experienced in designing and developing microcontroller-based systems, integrating sensors and actuators, implementing control systems, and building electronic solutions for various academic and project-based applications. Through hands-on involvement in robotics development and engineering projects. committed to applying engineering knowledge to create reliable, efficient, and impactful technological solutions.",
+    "profileImage": "images/profile.jpg",
+    "email": "habib.43423310@mhs.polines.ac.id",
+    "phone": "+62 858 6292 9263",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/habibmuhammad05"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/habibmuhammad05"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/hab_mz"
+        }
+    ],
+    "skills": [
+        {"name": "Electronics Engineering", "icon": "fas fa-bolt", "level": 90},
+        {"name": "Robotics", "icon": "fas fa-robot", "level": 85},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 80},
+        {"name": "PCB Design", "icon": "fas fa-microchip", "level": 90},
+        {"name": "Microcontroller Programming", "icon": "fas fa-code", "level": 80},
+        {"name": "Web Programming", "icon": "fas fa-globe", "level": 75},
+        {"name": "Project Management", "icon": "fas fa-diagram-project", "level": 70},
+        {"name": "Team Leadership", "icon": "fas fa-users", "level": 70},
+        {"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
+    ]
+}
